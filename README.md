@@ -10,28 +10,28 @@
 # INICIALIZAÇÃO
 
 - Rodar o comando:
-    '''
-    pyro4-ns -n "IP LOCAL"
-    '''
+    
+    ```pyro4-ns -n "IP LOCAL"```
+    
 - Rodar o servidor:
-    '''
-    py server_crud.py
-    '''
+    
+    ```py server_crud.py```
+    
 - Rodar o Programa local Client:
-    '''
-    py client_crud.py
-    '''
+    
+    ```py client_crud.py```
+    
 
 # INICIALIZATION
 - Run:
-    '''
-    pyro4-ns -n "IP LOCAL"
-    '''
+    
+    ```pyro4-ns -n "IP LOCAL"```
+    
 - Run Server:
-    '''
-    py server_crud.py
-    '''
+    
+    ```py server_crud.py```
+    
 - Run Client:
-    '''
-    py client_crud.py
-    '''
+    
+    ```py client_crud.py```
+    
