@@ -41,7 +41,7 @@ class FunctionsCrud():
     def delete(self, id):
         try:
             info = [item for item in database if item['id'] == int(id)][0]
-            resp = 'ID' + str(id) + 'DELETED'
+            resp = 'ID ' + str(id) + ' DELETED'
             database.pop(database.index(info))
         except:
             resp = 'INVALID ID (' + str(id) + ')' 
